@@ -44,6 +44,9 @@ if __name__ == '__main__':
                 group.append(line)
             else:
                 # do analysis
+                print(sorted(group[0]))
+                print(sorted(group[1]))
+                print(sorted(group[2]))
                 group_sets = [set(l) for l in group]
                 print(sorted(group_sets[0]))
                 print(sorted(group_sets[1]))
