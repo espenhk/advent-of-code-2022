@@ -3,7 +3,7 @@ Repo for my personal solutions to Advent of Code for 2022. Most solutions will b
 
 Current list of solutions (languages):
 - [X] 01 (Python)
-- [X] 02 (Python, part 1 only)
+- [X] 02 (Python)
 - [ ] 03
 - [ ] 04
 - [ ] 05
