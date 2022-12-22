@@ -22,6 +22,10 @@ Current list of solutions:
 - [X] part 1
 - [ ] part 2
 
+### 06:
+- [ ] part 1
+- [ ] part 2
+
 ### 07:
 - [ ] part 1
 - [ ] part 2
